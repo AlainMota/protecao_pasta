@@ -1,5 +1,5 @@
 ## Proteção de Pasta
-![Logo of the project](https://github.com/AlainMota/readme_images/blob/main/remove.png)
+![Logo of the project](https://github.com/AlainMota/readme_images/blob/main/logo_protecao.png)
 
 Este projeto foi desenvolvido com o objetivo de criar uma pasta protegida por senha no computador com windows, para serem guardados arquivos de formas seguras que impeçam que curiosos possam asseça-las.
 
@@ -9,8 +9,8 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 * Java SE 8 (LTS)
 * Certificados digitais
-* algoritmo de codificação CBase64
-* 
+* Algoritmo de codificação CBase64
+* Permissões de NTFS.
 
 ## Serviços Usados
 
