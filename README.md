@@ -1,7 +1,7 @@
 ## Proteção de Pasta
 ![Logo of the project](https://github.com/AlainMota/readme_images/blob/main/logo_protecao.png)
 
-Este projeto foi desenvolvido com o objetivo de criar uma pasta protegida por senha no computador com windows, para serem guardados arquivos de formas seguras que impeçam que curiosos possam asseça-las.
+Este projeto foi desenvolvido com o objetivo de criar uma pasta protegida por senha no computador com windows, para serem guardados arquivos de formas seguras que impeçam que curiosos possam acessá-las.
 
 ## Tecnologia 
 
