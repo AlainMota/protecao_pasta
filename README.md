@@ -28,15 +28,15 @@ Projeto de software descontinuado.
 
 ## Recursos
 
-  - Remove o vírus com extensão .vbs.
-  - Remove os atalhos criado no pendrive.
-  - Desoculta os arquivos originais.
+  - Cria pasta segura no windows 7.
+  - Utiliza cetificado digital para autenticação do usuario.
+  - Protege a pasta principal com criptografia.
+  - Exige senha para login na pasta.
 
 
 ## Links
 
-  - Link da aplicação desenvolvida: https://github.com/AlainMota/Remove-Atalhos/blob/main/REMOVE_2.0.jar
-  - Repository: https://github.com/AlainMota/Remove-Atalhos
+   - Repository: https://github.com/AlainMota/protecao_pasta
    
 ## Controle de versão
 
