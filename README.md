@@ -23,7 +23,7 @@ Projeto de software descontinuado.
 
 ## Interface
 
-![interface](https://github.com/AlainMota/readme_images/blob/main/designe_remove.png)
+![interface](https://github.com/AlainMota/readme_images/blob/main/interface-protecao.png)
 
 
 ## Recursos
